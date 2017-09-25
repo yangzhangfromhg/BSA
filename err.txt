@@ -1,0 +1,5 @@
+[my_pso_ct\common\PSO.cpp:80]: (warning) Possible null pointer dereference: best
+[my_pso_ct\common\SUT.cpp:57]: (error) Uninitialized struct member: temp.coverIndex
+[my_pso_ct\common\SUT.cpp:57]: (error) Uninitialized struct member: temp.coverSub
+[my_pso_ct\main.cpp:91]: (error) Uninitialized struct member: sub.coverIndex
+[my_pso_ct\main.cpp:91]: (error) Uninitialized struct member: sub.coverSub

@@ -1,0 +1,10 @@
+parameter 15
+value 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+tway 2
+variable 2
+subparameter 3
+subtway 3
+subposition 0 1 2
+subparameter 3
+subtway 3
+subposition 3 4 5

@@ -1,0 +1,7 @@
+parameter 8
+value 4 4 4 5 5 5 6 6 
+tway 2
+variable 1
+subparameter 8
+subtway 3
+subposition 0 1 2 3 4 5 6 7
